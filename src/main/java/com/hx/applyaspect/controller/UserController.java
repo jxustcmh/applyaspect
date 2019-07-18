@@ -1,9 +1,7 @@
-package com.hx.applyaspect.web;
+package com.hx.applyaspect.controller;
 
 import com.hx.applyaspect.dto.UserDTO;
-import com.hx.applyaspect.model.MyResponse;
 import com.hx.applyaspect.service.UserService;
-import com.sigma.sigmacore.web.SigmaPagingResponse;
 import com.sigma.sigmacore.web.SigmaRequest;
 import com.sigma.sigmacore.web.SigmaResponse;
 import io.swagger.annotations.Api;
